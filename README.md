@@ -1,10 +1,9 @@
 # Lab1Web
 ## Belajar dasar HTML
 ## modul Praktikum Pemprograman Web
-### Membuat Deklarasi
-kode tag untuk deklarasi adalah '<p>'
+
  ![Gambar](Css.png)
-lalu refresh browser, dan ini adalah tampilannya '<p>'
+ Kemudian buka file tersebut pada browser, dan ini adalah tampilannya '<p>'
  ![Gambar](Ss.png)
 ### 1.Membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
