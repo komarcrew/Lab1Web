@@ -21,6 +21,11 @@ Kode tag untuk Judul adalah '<p>'
  ![Gambar](Css2.png)
 Simpan perubahan kemudian refresh pada browser.Dan ini hasil nya'<p>'
  ![Gambar](Ss2.png)
-### 3. Memformat teks
- Pemformatan tekt pada paragraf'<p>'
+### 3.Memformat teks
+Pemformatan tekt pada paragraf'<p>'
  ![Gambar](Ss5.PNG)
+### 4.Menyisipkan Gambar
+Siapkan gambar yang akan disisipkan pada web,dan kode tag untuk gambar adalah.
+ ![Gambar](Css3.png)
+Simpan perubahan lalu refresh browser.Dan ini hasil nya.'<p>'
+ ![Gambar](Ss3.png)
