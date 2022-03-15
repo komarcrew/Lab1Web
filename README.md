@@ -2,9 +2,9 @@
 ## Belajar dasar HTML
 ## modul Praktikum Pemprograman Web
 ### Membuat Heading
-'<p>'kode tag untuk heading adalah '</p>'
+kode tag untuk heading adalah '</p>'
 ![gambar](Css.png)
-'<p>'lalu refresh browser, dan ini adalah tampilannya '</p>'
+lalu refresh browser, dan ini adalah tampilannya '</p>'
 ![gambar](Ss.png)
 ### 1.membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
