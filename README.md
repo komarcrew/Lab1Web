@@ -29,3 +29,5 @@ Siapkan gambar yang akan disisipkan pada web,dan kode tag untuk gambar adalah.
  ![Gambar](Css3.png)
 Simpan perubahan lalu refresh browser.Dan ini hasil nya.'<p>'
  ![Gambar](Ss3.png)
+Gambar akan ditampilkan dengan apa adanya sesuai ukuran aslinya.Dan kode tag untuk mengatur ukuran gambar.'<p>'
+ ![Gambar](Css3.0.png)
