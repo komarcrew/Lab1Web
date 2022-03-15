@@ -34,5 +34,5 @@ Gambar akan ditampilkan dengan apa adanya sesuai ukuran aslinya.Dan kode tag unt
 ### 5.Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.'<p>'
  ![Gambar](Css4.png)
-Buat satu file lagi dengan nama bebas dengan diakhiri .html lalu dengan tag html dasar.Ini hasilnya'<p>'
+Buat satu file lagi dengan nama lab1_halaman2.html lalu isi dengan tag html dasar.Ini hasilnya'<p>'
  ![Gambar](Ss4.png)
