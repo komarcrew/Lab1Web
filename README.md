@@ -33,6 +33,9 @@ Simpan perubahan lalu refresh browser.Dan ini hasil nya.'<p>'
  ![Gambar](Ss3.png)'<p>'
 Gambar akan ditampilkan dengan apa adanya sesuai ukuran aslinya.Dan kode tag untuk mengatur ukuran gambar.'<p>'
  ![Gambar](Css3.0.png)'<p>'
+  
+Soal Pertanyaan :
+
 ### 5.Menambahkan Hyperlink'<p>'
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.'<p>'
  ![Gambar](Css4.png)'<p>'
