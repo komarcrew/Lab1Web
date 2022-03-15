@@ -9,5 +9,6 @@ lalu refresh browser, dan ini adalah tampilannya '<p>'
 ### 1.membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
 ![Gambar](Css1.png)  
-ini adalah tampilannya '<p>'
+Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
+ '<p>'
 ![Gambar](Ss1.png)
