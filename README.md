@@ -22,5 +22,5 @@ Kode tag untuk Judul adalah '<p>'
 Simpan perubahan kemudian refresh pada browser.Dan ini hasil nya'<p>'
  ![Gambar](Ss2.png)
 ### 3. Memformat teks
- Pemformatan tekt pada paragraf.
+ Pemformatan tekt pada paragraf'<p>'
  ![Gambar](Ss5.PNG)
