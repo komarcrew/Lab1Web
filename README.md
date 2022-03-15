@@ -1,6 +1,6 @@
 # Lab1Web
 ## Belajar dasar HTML
-## modul Praktikum Pemprograman Web
+## Modul Praktikum Pemprograman Web
 
  ![Gambar](Css.png)
  Kemudian buka file tersebut pada browser, dan ini adalah tampilannya '<p>'
