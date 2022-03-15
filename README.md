@@ -4,7 +4,7 @@
 ### Membuat Heading
 kode tag untuk heading adalah '<p>'
   ![gambar](Css.png)
-ini adalah tampilannya '<p>'
+ini adalah tampilannya'<p>'
   ![gambar](Ss.png)
 ### 1.membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
