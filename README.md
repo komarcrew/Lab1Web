@@ -4,12 +4,12 @@
 
  ![Gambar](Css.png)
  Kemudian buka file tersebut pada browser, dan ini adalah tampilannya.'<p>'
- ![Gambar](Ss.png)
+ ![Gambar](Ss.png)'<p>'
 ### 1.Membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
- ![Gambar](Css1.png)  
-Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada browser, lihat hasilnya.
- ![Gambar](Ss1.png)
+ ![Gambar](Css1.png)'<p>'
+Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada browser, lihat hasilnya.'<p>'
+ ![Gambar](Ss1.png)'<p>'
  Kemudian atur atribut paragraf seperti berikut
  ![Gambar](Css1.0.png)
 simpan kembali,dan refresh pada browser.Dan ini hasil perubahannya
@@ -32,5 +32,5 @@ Gambar akan ditampilkan dengan apa adanya sesuai ukuran aslinya.Dan kode tag unt
 ### 5.Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
  ![Gambar](Css4.png)
-Buat satu file lagi dengan nama lab1_halaman2.html lalu isi dengan tag html dasar.Ini hasilnya.'</p>'
+Buat satu file lagi dengan nama lab1_halaman2.html lalu isi dengan tag html dasar.Ini hasilnya.'<p>'
  ![Gambar](Ss4.png)
