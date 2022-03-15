@@ -23,4 +23,4 @@ Simpan perubahan kemudian refresh pada browser.Dan ini hasil nya'<p>'
  ![Gambar](Ss2.png)
 ### 3. Memformat teks
  Pemformatan tekt pada paragraf.
- ![Gambar](Ss5.png)
+ ![Gambar](Ss5.PNG)
