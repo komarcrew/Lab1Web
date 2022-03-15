@@ -25,14 +25,14 @@ Simpan perubahan kemudian refresh pada browser.Dan ini hasil nya'<p>'
 Pemformatan tekt pada paragraf'<p>'
  ![Gambar](Ss5.PNG)
 ### 4.Menyisipkan Gambar
-Siapkan gambar yang akan disisipkan pada web,dan kode tag untuk gambar adalah.
+Siapkan gambar yang akan disisipkan pada web,dan kode tag untuk gambar adalah.'<p>'
  ![Gambar](Css3.png)
 Simpan perubahan lalu refresh browser.Dan ini hasil nya.'<p>'
  ![Gambar](Ss3.png)
 Gambar akan ditampilkan dengan apa adanya sesuai ukuran aslinya.Dan kode tag untuk mengatur ukuran gambar.'<p>'
  ![Gambar](Css3.0.png)
 ### 5.Menambahkan Hyperlink
-Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.'<p>'
  ![Gambar](Css4.png)
-Buat satu file lagi dengan nama bebas dengan diakhiri .html lalu dengan tag html dasar.Ini hasilnya
+Buat satu file lagi dengan nama bebas dengan diakhiri .html lalu dengan tag html dasar.Ini hasilnya'<p>'
  ![Gambar](Ss4.png)
