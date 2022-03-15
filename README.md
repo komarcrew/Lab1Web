@@ -3,7 +3,7 @@
 ## Modul Praktikum Pemprograman Web
 
  ![Gambar](Css.png)
- Kemudian buka file tersebut pada browser, dan ini adalah tampilannya '<p>'
+ Kemudian buka file tersebut pada browser, dan ini adalah tampilannya '<br/>'
  ![Gambar](Ss.png)
 ### 1.Membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
