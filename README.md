@@ -3,13 +3,12 @@
 ## Modul Praktikum Pemprograman Web
 
  ![Gambar](Css.png)
- Kemudian buka file tersebut pada browser, dan ini adalah tampilannya '<p>'
+ Kemudian buka file tersebut pada browser, dan ini adalah tampilannya
  ![Gambar](Ss.png)
 ### 1.Membuat Paragraf 
 kode tag untuk paragraf adalah '<p>'
  ![Gambar](Css1.png)  
 Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada browser, lihat hasilnya.
- '<p>'
  ![Gambar](Ss1.png)
  Kemudian atur atribut paragraf seperti berikut '<p>'
  ![Gambar](Css1.0.png)
