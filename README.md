@@ -1,8 +1,8 @@
 # Lab1Web
 ## Belajar dasar HTML
 ## modul Praktikum Pemprograman Web
-### Membuat Heading
-kode tag untuk heading adalah '<p>'
+### Membuat Deklarasi
+kode tag untuk deklarasi adalah '<p>'
  ![Gambar](Css.png)
 lalu refresh browser, dan ini adalah tampilannya '<p>'
  ![Gambar](Ss.png)
